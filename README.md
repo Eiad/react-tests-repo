@@ -1,1 +1,1 @@
-# chalhoub-interview-repo  ReactJS
+# chalhoub-interview-repo  ReactJS with jest test renderer
