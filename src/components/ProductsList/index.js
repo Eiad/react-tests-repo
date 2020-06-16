@@ -3,9 +3,9 @@ import React, { useState, useEffect, useMemo } from "react";
 import Products from "../../models/Products";
 import ZoomImage from "../ZoomImage";
 
-const ProductList = () => {
+const ProductList = ({ data = [] }) => {
   const [indexToShow, setIndexToShow] = useState(0);
-  const [products, setProducts] = useState([]);
+  const [products, setProducts] = useState(data);
 
   const product = useMemo(() => {
     const currentProduct = products[indexToShow];

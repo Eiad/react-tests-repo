@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductsList snapshot renders 1`] = `
+<div>
+  <div
+    className="main-container"
+  >
+    <header>
+      <a
+        className="logo"
+        href="#main"
+      >
+        <img
+          alt=""
+          src="https://i.imgur.com/TSBasZJ.jpg"
+        />
+      </a>
+      <div
+        className="thenav"
+      >
+        <ul
+          class="nav-ul section group"
+        >
+          <li
+            class="col span_1_of_4"
+          >
+            <a
+              href="#men"
+            >
+              Men
+            </a>
+          </li>
+          <li
+            class="col span_1_of_4"
+          >
+            <a
+              href="#women"
+            >
+              Women
+            </a>
+          </li>
+          <li
+            class="col span_1_of_4"
+          >
+            <a
+              href="#kids"
+            >
+              Kids
+            </a>
+          </li>
+          <li
+            class="col span_1_of_4"
+          >
+            <a
+              href="#ftw"
+            >
+              FTW
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div
+        className="search-bar"
+      >
+        <form
+          action=""
+        >
+          <input
+            placeholder="Search..."
+            type="text"
+          />
+          <button
+            type="submit"
+          >
+            <i
+              className="fa fa-search"
+            />
+          </button>
+        </form>
+      </div>
+    </header>
+    <section
+      className="main-body"
+    >
+      <div
+        className="main-product-info"
+      >
+        <div
+          data-rmiz-wrap="visible"
+          style={undefined}
+        >
+          <img
+            alt=""
+            src="https://i.imgur.com/Iyy2jVQ.jpg"
+          />
+          <button
+            aria-label="Zoom image"
+            data-rmiz-btn-open={true}
+            onClick={[Function]}
+          />
+        </div>
+        <h4>
+          Tiger Shirt - Red
+           
+          <br />
+          <small>
+             by 
+            Michael Kors
+          </small>
+        </h4>
+        <p>
+          250
+           
+          AED
+        </p>
+      </div>
+      <div
+        className="sizes"
+      >
+        <p>
+          Available Sizes: 
+          <span>
+            S, M, L
+          </span>
+           
+          <br />
+          Neck type: 
+          <span>
+            Y Collar
+          </span>
+        </p>
+      </div>
+      <div
+        className="colors red-border"
+      >
+        <button
+          className="red"
+          onClick={[Function]}
+        />
+        <button
+          className="black"
+          onClick={[Function]}
+        />
+        <button
+          className="grey"
+          onClick={[Function]}
+        />
+      </div>
+      <button
+        className="a2c"
+      >
+        Add to cart
+      </button>
+      <div
+        className="description"
+      >
+        <h5>
+          Product description
+        </h5>
+        <p>
+          It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+        </p>
+      </div>
+      <hr />
+      <h5>
+        Products Complement your selection
+      </h5>
+      <div
+        className="related-products section group"
+      >
+        <div
+          className="col span_1_of_4"
+        >
+          <img
+            alt=""
+            src="https://i.imgur.com/6s7TCGu.jpg"
+          />
+        </div>
+        <div
+          className="col span_1_of_4"
+        >
+          <img
+            alt=""
+            src="https://i.imgur.com/JZUsesm.jpg"
+          />
+        </div>
+        <div
+          className="col span_1_of_4"
+        >
+          <img
+            alt=""
+            src="https://i.imgur.com/EBeCFad.jpg"
+          />
+        </div>
+        <div
+          className="col span_1_of_4"
+        >
+          <img
+            alt=""
+            src="https://i.imgur.com/ZVjfS2b.jpg"
+          />
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;
