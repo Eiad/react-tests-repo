@@ -13,3 +13,10 @@ $('.slider-nav').slick({
   centerMode: true,
   focusOnSelect: true
 });
+
+$('.colors > button').click(
+    function(){
+      $('.colors > button').removeClass('active');
+      $(this).addClass('active');
+    }
+);
