@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "productTitle": "Tiger Shirt - Red",
+    "isActive": "colors red-border",
+    "availSize": "S, M, L",
+    "largePicture": "https://placehold.it/1000x1000",
+    "smallPicture": "https://i.imgur.com/Iyy2jVQ.jpg",
+    "color": "red",
+    "sleevType": "Y Collar",
+    "brand": "Michael Kors",
+    "price": "250",
+    "currency": "AED",
+    "descreption": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "thumb1": "https://i.imgur.com/6s7TCGu.jpg",
+    "thumb2": "https://i.imgur.com/JZUsesm.jpg",
+    "thumb3": "https://i.imgur.com/EBeCFad.jpg",
+    "thumb4": "https://i.imgur.com/ZVjfS2b.jpg"
+  },
+
+  {
+    "id": 2,
+    "productTitle": "Half Collar Shirt Summer - Black",
+    "isActive": "colors black-border",
+    "availSize": "M, L, XL",
+    "largePicture": "https://placehold.it/1000x1000",
+    "smallPicture": "https://i.imgur.com/QsZs2Uf.jpg",
+    "color": "black",
+    "sleevType": "Formal",
+    "brand": "Tory Burch",
+    "price": "300",
+    "currency": "SAR",
+    "descreption": "There are many variations of passages of Lorem Ipsum available, but the majority.",
+    "thumb1": "https://i.imgur.com/H3zmz0C.jpg",
+    "thumb2": "https://i.imgur.com/B0iZtjQ.jpg",
+    "thumb3": "https://i.imgur.com/SrIXHYT.jpg",
+    "thumb4": "https://i.imgur.com/iQQuXJV.jpg"
+  },
+  {
+    "id": 3,
+    "productTitle": "Leopard Shirt - Grey",
+    "isActive": "colors grey-border",
+    "availSize": "S, XL, XXL",
+    "largePicture": "https://placehold.it/1000x1000",
+    "smallPicture": "https://i.imgur.com/gbQfOnC.jpg",
+    "color": "grey",
+    "sleevType": "Round",
+    "brand": "Carolina Herrera",
+    "price": "180",
+    "currency": "EUR",
+    "descreption": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical.",
+    "thumb1": "https://i.imgur.com/NcbLgoQ.jpg",
+    "thumb2": "https://i.imgur.com/Mh9uVMb.jpg",
+    "thumb3": "https://i.imgur.com/ZDYo15Z.jpg",
+    "thumb4": "https://i.imgur.com/HB3ro5o.jpg"
+  }
+]
