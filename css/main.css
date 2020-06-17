@@ -179,7 +179,7 @@ button.grey {
   background: #555555;
 }
 
-button.active {
+.colors > button.active {
   box-shadow: 0 0 0 2px black;
 }
 
@@ -193,19 +193,12 @@ button.a2c {
   font-size: 17px;
 }
 
+
 .description {
   padding: 10px 0;
 }
 
 .colors.red-border > .red {
-  box-shadow: 0 0 0px 2px black;
-}
-
-.colors.black-border > .black {
-  box-shadow: 0 0 0px 2px black;
-}
-
-.colors.grey-border > .grey {
   box-shadow: 0 0 0px 2px black;
 }
 
