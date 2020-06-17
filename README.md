@@ -1,13 +1,5 @@
-# chalhoub-interview-repo
-
-2 ReactJS Branches with Test
-
-1 Normal JS, HTML, CSS3 version
+# chalhoub-interview-repo-enhanced-php
 
 Preview SandBoxes:
 <br /><br />
-ReactJS Branch: https://codesandbox.io/s/github/Eiad/chalhoub-interview-repo/tree/reactjs
-
-ReactJS with Tests Branch: https://codesandbox.io/s/github/Eiad/chalhoub-interview-repo/tree/reactjs-with-tests
-
-Normal HTML Version: https://codesandbox.io/s/github/Eiad/chalhoub-interview-repo/tree/non-reactjs
+PHP, New look Branch: 
