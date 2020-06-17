@@ -1,9 +1,5 @@
 <?php 
-
-
 $data = '
-
-
   {
     "productTitle": "Summer Dress for women",
     "brand": "Michael Kors",
