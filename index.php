@@ -18,8 +18,8 @@
   <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
   <!-- Icon Font CSS -->
   <link rel="stylesheet" href="assets/css/all.min.css">
-
   <link rel="stylesheet" href="assets/css/linearicons.css">
+  <link rel="stylesheet" href="assets/css/simple-line-icons.css">
   <!--- owl carousel CSS-->
   <link rel="stylesheet" href="assets/owlcarousel/css/owl.carousel.min.css">
   <link rel="stylesheet" href="assets/owlcarousel/css/owl.theme.css">
