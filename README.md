@@ -8,3 +8,5 @@ SandBoxes:<br />
 ReactJS Branch: https://codesandbox.io/s/github/Eiad/chalhoub-interview-repo/tree/reactjs
 
 ReactJS with Tests Branch: https://codesandbox.io/s/github/Eiad/chalhoub-interview-repo/tree/reactjs-with-tests
+
+Normal HTML Version: https://codesandbox.io/s/github/Eiad/chalhoub-interview-repo/tree/non-reactjs
