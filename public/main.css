@@ -180,15 +180,7 @@ button.a2c {
   padding: 10px 0;
 }
 
-.colors.red-border > .red {
-  box-shadow: 0 0 0px 2px black;
-}
-
-.colors.black-border > .black {
-  box-shadow: 0 0 0px 2px black;
-}
-
-.colors.grey-border > .grey {
+.colors.red-border > .red, .colors.black-border > .black, .colors.grey-border > .grey  {
   box-shadow: 0 0 0px 2px black;
 }
 
